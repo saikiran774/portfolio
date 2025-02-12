@@ -1,8 +1,8 @@
 
 import React from "react";
- import eccomers from "../assets/eccomers.png"
- import books from "../assets/books.png"
- import food from "../assets/food.png"
+ import eccomers from "../assets/image/eccomers.png"
+ import books from "../assets/image/Blog.png"
+ import food from "../assets/image/food.png"
 const projects = [
   {
     id: 1,
