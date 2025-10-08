@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 3,
-    name: "Food-website",
+    name: "grocery-website",
     technologies: "MERN Stack",
     image: Grocery,
     github: "https://github.com/saikiran774",
