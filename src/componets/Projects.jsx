@@ -1,28 +1,28 @@
 
 import React from "react";
- import eccomers from "../assets/image/eccomers.png"
- import books from "../assets/image/Blog.png"
- import food from "../assets/image/food.png"
+ import socialmedia  from "../assets/images/socialMedia.png"
+ import car from "../assets/images/carRental.png"
+ import Grocery from '../assets/images/Grocery.png'
 const projects = [
   {
     id: 1,
-    name: "Eccomers",
+    name: "Socialmedia website",
     technologies: "MERN Stack",
-    image: eccomers ,
+    image: socialmedia ,
     github: "https://github.com/saikiran774",
   },
   {
     id: 2,
-    name: "Blog webpage",
+      name: "CarRenteal website",
     technologies: "MERN Stack",
-    image: books,
+    image: car,
     github: "https://github.com/saikiran774",
   },
   {
     id: 3,
     name: "Food-website",
     technologies: "MERN Stack",
-    image: food,
+    image: Grocery,
     github: "https://github.com/saikiran774",
   },
 ];
